@@ -7,7 +7,7 @@ Class merupakan salah satu fitur baru pada ES6 yang memudahkan programmer dalam 
 ### Macam-macam class pada JavaScript ES6
 
 1. Class Expression
-Class Expression adalah sebuah cara untuk membuat class tanpa harus memberikan nama pada class tersebut. Class Expression biasanya digunakan untuk membuat class yang hanya dibutuhkan pada suatu tempat saja dan tidak perlu didefinisikan ulang.
+Class Expression adalah sebuah cara untuk membuat class tanpa harus memberikan nama pada class tersebut. Class Expression biasanya digunakan untuk membuat class yang hanya dibutuhkan pada suatu tempat saja dan tidak perlu didefinisikan ulanvg.
 
 Contoh penggunaan:
 
