@@ -1,15 +1,15 @@
 # Materi Javascript ES6
 
-1. Let
-2. Const
-3. Template String
-4. Arrow Notation
-5. function as First Citizen
-6. Class dan Object
-7. Processing Object
-8. Array dan Object Destruction
-9. Spread Operator
-10. Rest Parameter
-11. Array Method Foreach dan Map
-12. Async Javascript (Promise, asych - await)
-13. JavaScriptModule (multiple import/export, export default, import alias, import all)
+1. [Let](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/01-Let)
+2. [Const](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/02-Const)
+3. [Template String](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/03-Template-String)
+4. [Arrow Notation](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/04-Arrow-Notation)
+5. [function as First Citizen](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/05-function-as-First-Citizen)
+6. [Class dan Object](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/06-Class-dan-Object)
+7. [Processing Object](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/07-Processing-Object)
+8. [Array dan Object Destruction](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/08-Array-dan-Object-Destruction)
+9. [Spread Operator](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/09-Spread-Operator)
+10. [Rest Parameter](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/10-Rest-Parameter)
+11. [Array Method Foreach dan Map](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/11-Array-Method-Foreach-dan-Map)
+12. [Async Javascript (Promise, asych - await)](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/12-Async-Javascript)
+13. [JavaScriptModule (multiple import/export, export default, import alias, import all)](https://github.com/AhmadRafif22/Pertemuan-2---es6/tree/13-JavaScript-Module)
