@@ -7,6 +7,7 @@ Class merupakan salah satu fitur baru pada ES6 yang memudahkan programmer dalam 
 ### Macam-macam class pada JavaScript ES6
 
 1. Class Expression
+
 Class Expression adalah sebuah cara untuk membuat class tanpa harus memberikan nama pada class tersebut. Class Expression biasanya digunakan untuk membuat class yang hanya dibutuhkan pada suatu tempat saja dan tidak perlu didefinisikan ulanvg.
 
 Contoh penggunaan:
@@ -20,6 +21,7 @@ const myClass = class {
 ```
 
 2. Class Declaration
+
 Class Declaration adalah sebuah cara untuk membuat class dengan memberikan nama pada class tersebut. Class Declaration digunakan untuk membuat class yang bisa digunakan di mana saja dalam kode JavaScript.
 
 Contoh penggunaan:
@@ -82,6 +84,7 @@ Object pada JavaScript ES6 adalah tipe data kompleks yang digunakan untuk merepr
 ### Cara untuk membuat object pada JavaScript ES6
 
 1. Object Literal
+
 Object Literal adalah cara untuk membuat object dengan menuliskan properti dan metode dalam kurung kurawal {}.
 
 Contoh penggunaan:
@@ -97,6 +100,7 @@ const myObj = {
 ```
 
 2. Object Constructor
+
 Object Constructor adalah cara untuk membuat object dengan menggunakan function constructor yang mengembalikan object yang baru.
 
 Contoh penggunaan:
@@ -114,6 +118,7 @@ const myObj = new MyClass("value1", "value2");
 ```
 
 3. Object.create
+
 Object.create adalah cara untuk membuat object baru dengan mewarisi properti dan metode dari object yang sudah ada.
 
 Contoh penggunaan:
@@ -267,6 +272,7 @@ console.log(userEmail); // johndoe@example.com
 <br>
 
 <b>5. Object Spread Operator</b>
+
 Object Spread Operator merupakan salah satu fitur baru pada Javascript ES6 yang memungkinkan kita untuk menyalin nilai dari sebuah object ke dalam object yang baru. Dengan menggunakan Object Spread Operator, kita dapat melakukan manipulasi object dengan cara yang lebih ringkas dan mudah dibaca.
 
 Contoh penggunaan:
