@@ -34,6 +34,34 @@ class MyClass {
 }
 ```
 
+Setiap class <b>wajib</b> memiliki function `constructor()`. Konstruktor adalah sebuah fungsi khusus yang secara otomatis dipanggil saat membuat objek dari sebuah kelas. Di dalam konstruktor, kita dapat menentukan properti atau metode awal yang dimiliki oleh objek yang dibuat dari kelas tersebut.
+
+Berikut merupakan contoh penggunaan konstruktor pada class javascript es6 :
+
+```javascript
+class Person {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+  
+  introduce() {
+    console.log(`Hi, my name is ${this.name} and I am ${this.age} years old.`);
+  }
+}
+
+const john = new Person('John', 25); // mengisi parameter konstruktor
+john.introduce(); // Output: Hi, my name is John and I am 25 years old.
+```
+
+Pada contoh di atas, kita membuat sebuah kelas `Person` dengan dua properti yaitu `name` dan `age`. Di dalam konstruktor, kita menetapkan nilai dari kedua properti tersebut dengan memanfaatkan parameter `name` dan `age`. Selanjutnya, kita juga menambahkan metode `introduce()` yang akan mencetak teks yang menggambarkan objek `Person`.
+
+Kemudian, kita membuat objek baru john dari kelas `Person` dengan memanggil fungsi new `Person('John', 25)`. Dalam proses pembuatan objek ini, konstruktor akan secara otomatis dipanggil dan menetapkan nilai `name` dan `age` dari objek `john` dengan nilai '`John`' dan `25` yang diberikan pada konstruktor.
+
+Terakhir, kita memanggil metode `introduce()` dari objek `john` yang akan mencetak teks sesuai dengan nilai `name` dan `age` yang dimiliki oleh objek `john`.
+
+<br>
+
 ### Cara penggunaan class pada JavaScript ES6
 
 1. Membuat objek baru dari sebuah class
